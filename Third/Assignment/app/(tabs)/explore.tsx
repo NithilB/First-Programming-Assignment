@@ -83,7 +83,7 @@ const logOut = () => {
       <Button title="Login" onPress={handleLogin} />
 
       <Text style={styles.registerText}>
-        Sign in here as well! You can only make one unique email and password{' '}
+        You can only make one unique email and password. Sign in here!{' '}
       </Text>
       </>
       :
